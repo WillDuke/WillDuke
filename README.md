@@ -3,20 +3,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 <h1 align="center">Hi 👋, I'm Will Duke</h1>
 <h3 align="center">A data scientist working on fraud detection models at Travelers</h3>
 
-I am an experienced data scientist with expertise in developing, deploying, and evaluating machine learning models. Between training models in scikit-learn and pytorch, building NLP solutions with nltk and spacy, and creating ETL pipelines with pandas and pyspark on Databricks and AWS among other projects, I am familiar with many tools, and I'm always looking to learn something new. I am also well versed in the R language, with experience creating graphs with the tidyverse, automating reporting processes with Rmarkdown, and creating interactive visualizations with Shiny.
-
+- 🔭 I’m currently working on: fraud network detection tools using graph analysis.
+- 🌱 I’m currently learning about: devops tools such as Docker and Jenkins.
+- 💬 Ask me about: Anything!
+- 📫 How to reach me: See my LinkedIn below.
+- ⚡ Fun fact: I'm a huge fan of pulp thriller novels! In another life, I'd be a swashbuckling mercenary aboard Clive Cussler's *Oregon*.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
